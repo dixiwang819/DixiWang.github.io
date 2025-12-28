@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Dixi Wang
+Dixi Wang
 
 _Postdoctoral Researcher in Mathematics_  
 Interests: scientific computing, learning theory for LLM, optimal transport, PDEs, computational mean-field games...
