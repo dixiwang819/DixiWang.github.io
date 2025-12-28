@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-Dixi Wang
+# Dixi Wang
 
 _Postdoctoral Researcher in Mathematics_
 
