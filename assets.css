@@ -5,3 +5,24 @@ header h1{font-size:1.25rem; margin:0;}
 nav a{margin-right:1rem; text-decoration:none;}
 main h1,main h2{margin-top:2rem;}
 code,kbd,pre{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;}
+.home-row{
+  display:flex;
+  gap:2rem;
+  align-items:flex-start;
+}
+.home-left{ flex: 1; }
+.home-right{ width: 220px; }
+
+.profile-photo{
+  width: 220px;
+  height: auto;
+  border-radius: 16px;
+  display: block;
+}
+
+/* Mobile: stack */
+@media (max-width: 720px){
+  .home-row{ flex-direction: column; }
+  .home-right{ width: 100%; }
+  .profile-photo{ width: 220px; }
+}
