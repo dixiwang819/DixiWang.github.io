@@ -7,7 +7,7 @@ layout: default
 
 _Visiting Assistant Professor in Mathematics_ 
 
-<img class="profile-photo" src="{{ '/assets/img/Bowell.jpg' | relative_url }}" >
+<img class="profile-photo" src="{{ '/assets/img/Bowell.jpeg' | relative_url }}" >
 
 Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
  
