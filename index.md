@@ -8,8 +8,8 @@ layout: default
 # Dixi Wang
 
 
-_I am currently a Golomb Visiting Assistant Professor at Purdue University working with Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/)
-_ 
+_I am currently a Golomb Visiting Assistant Professor at Purdue University_ 
+_working with Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/)_
 
 
 Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
