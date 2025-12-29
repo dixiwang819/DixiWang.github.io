@@ -2,11 +2,12 @@
 title: Home
 layout: default
 ---
-<img class="profile-photo" src="{{ '/assets/img/IMG_0556.jpg' | relative_url }}" >
 
 # Dixi Wang
 
 _Visiting Assistant Professor in Mathematics_ 
+
+<img class="profile-photo" src="{{ '/assets/img/IMG_0556.jpg' | relative_url }}" >
 
 Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
  
