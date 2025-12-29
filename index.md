@@ -7,7 +7,7 @@ layout: default
 
 _Postdoctoral Researcher in Mathematics_ 
 
-Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
+research interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
  
 - **Email:** wang6721 at purdue dot edu  
 - **CV:** [cv.pdf](cv.pdf)  
