@@ -5,7 +5,7 @@ layout: default
 
 # Dixi Wang
 
-_Postdoctoral Researcher in Mathematics_ 
+_Visiting Assistant Professor in Mathematics_ 
 
 research interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
  
