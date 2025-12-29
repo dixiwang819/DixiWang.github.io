@@ -36,4 +36,20 @@ code,kbd,pre{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospac
     margin-top: 1rem;
   }
 }
+/* Profile photo on homepage */
+.profile-photo{
+  float: right;
+  max-width: 220px;
+  width: 35%;
+  height: auto;
+  margin: 0 0 1rem 2rem;
+  border-radius: 14px;
+}
+
+/* Clear float so later sections don't wrap */
+.clearfix::after{
+  content:"";
+  display:block;
+  clear:both;
+}
 
