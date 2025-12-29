@@ -2,8 +2,8 @@
 title: Home
 layout: default
 ---
-<div class="home-row">
-  <div class="home-left">
+<div class="home-row" markdown="1">
+  <div class="home-left" markdown="1">
 
 # Dixi Wang
 
