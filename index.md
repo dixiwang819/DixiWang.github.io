@@ -9,7 +9,7 @@ layout: default
 
 
 _I am currently a Golomb Visiting Assistant Professor at Purdue University_ 
-_working with Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/)_
+_working with Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/)_.
 
 
 Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
@@ -21,7 +21,10 @@ Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-fiel
 
 ### Latest: 
 - preprint on  (Dec 2025).
-- minisymposium (Oct 2025).
-- minisymposium (Oct 2025).
 
 
+### Presentations:
+- minisymposium on “Foundation Models: From Theory to Practice” at the SIAM New York–New Jersey–Pennsylvania Section Meeting (Oct 2025).
+- minisymposium on "Approximation Theory and its Applications in Scientific Machine Learning," at SIAM Central States Section Meeting (Oct 2025).
+- PDE seminar, Purdue University (Sept 2024).
+- Workshop on Theory and Applications for Optimal Control and Generative Models, Purdue University (Aug 2024).
